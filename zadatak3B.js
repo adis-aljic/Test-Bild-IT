@@ -9,7 +9,7 @@ for (let k = 0; k<100; k++) {  // ispisati brojeve - kasnije pokusat izbaciti i 
 
 }
 console.log(broj)
-
+x`x`
     for (let i = 0; i < broj.length; i++) { 
         /* proci kroz brojeve i provjeriti da li je broj neparan  zatim ispisati da li je broj neparan broj jer prosti broj
            mora biti neparan, izuzetak je broj 2. zatim ako broj nema svojih faktora onda je primaran
